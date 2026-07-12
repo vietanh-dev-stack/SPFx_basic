@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.16.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "sp-fx-basic",
+    "libraryId": "e7a276b4-e1d8-4d0c-ade5-0292433c7e47",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sp-fx-basic",
+    "solutionShortDescription": "sp-fx-basic description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
